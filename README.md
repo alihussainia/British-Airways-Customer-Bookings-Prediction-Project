@@ -2,11 +2,10 @@
 <pre>
    <h1>Data Science Virtual Experience Programme</h1>
    ---------------------------------------------------
-   British Airways
+  Uncover company insights and predict customer buying behaviour with British Airways Data Science team.
 </pre>
    <img loading="lazy" src="https://img.shields.io/badge/course-passed-green" alt="course passed">
-   
-`Uncover company insights and predict customer buying behaviour with our Data Science team.`  
+    
 <hr></hr>
 </div>
 
