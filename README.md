@@ -1,10 +1,9 @@
 <div align="center">
 <pre>
    <h1>British Airways Data Science Virtual Experience Programme</h1>
-  ---------------------------------------------------
-Data Science Virtual Experience Programme
 </pre>
-  
+   
+`Uncover company insights and predict customer buying behaviour with our Data Science team.`  
 <hr></hr>
 </div>
 
