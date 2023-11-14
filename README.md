@@ -1,7 +1,7 @@
 <div align="center">
 <pre>
    <h1>British Airways Data Science Virtual Experience Programme</h1>
-   -------------------------------------------------------------------
+   ---------------------------------------------------
    <img loading="lazy" src="https://img.shields.io/badge/course-passed-green" alt="course passed">
 </pre>
    
