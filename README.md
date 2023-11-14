@@ -1,7 +1,9 @@
 <div align="center">
 <pre>
    <h1>British Airways Data Science Virtual Experience Programme</h1>
+   <img loading="lazy" src="https://img.shields.io/badge/course-passed-green" alt="course passed">
 </pre>
+   
    
 `Uncover company insights and predict customer buying behaviour with our Data Science team.`  
 <hr></hr>
@@ -61,3 +63,6 @@ Build a predictive model to understand factors that influence buying behaviour.
   - Prepare a dataset
   - Train a machine learning model
   - Evaluate and present your findings
+
+## Experience Certificate
+<img src="https://github.com/alihussainia/British-Airways-Data-Science-Project/blob/4d03d812d5927ce82e6fb55fabd54e9178dfdcb6/experience-certificate.png" alt="Experience_Certificate_IMG"/>
