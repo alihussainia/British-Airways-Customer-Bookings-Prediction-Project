@@ -1,6 +1,6 @@
 <div align="center">
 <pre>
-   <h1>Data Science Virtual Experience Programme</h1>
+   <h1>British Airways Customer Bookings Prediction Project</h1>
    ---------------------------------------------------
   Uncover company insights and predict customer buying behaviour with British Airways Data Science team.
 </pre>
