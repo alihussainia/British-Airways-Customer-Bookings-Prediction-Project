@@ -1,6 +1,6 @@
 <div align="center">
 <pre>
-   <h1>British Airways Data Science Internship Project</h1>
+   <h1>British Airways Data Science Virtual Experience Programme</h1>
   ---------------------------------------------------
 Data Science Virtual Experience Programme
 </pre>
